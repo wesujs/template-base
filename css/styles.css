@@ -1,0 +1,114 @@
+@font-face {
+    src: url("fonts/Photograph\ Signature.ttf");
+    font-family: sig;
+}
+
+@font-face {
+    src: url("fonts/BMEuljirooraeorae.ttf");
+    font-family: ko;
+    
+}
+
+@font-face {
+    src: url("fonts/Japanese.ttf");
+    font-family: jap;
+    
+}
+
+@font-face {
+    src: url("fonts/Mostery.ttf");
+    font-family: mos;
+    
+}
+
+a {
+    font-family: mos;
+    font-size: 30px;
+    text-decoration: none;
+    color: #eff3df;
+    word-spacing: 5%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+a:hover {
+    color: black;
+}
+
+body {
+    background-image: url("https://images.wallpapersden.com/image/download/just-a-tree_a2hqaG6UmZqaraWkpJRobWllrWdma2U.jpg");
+    background-repeat: no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+}
+
+p {
+    text-align: center;
+    margin: 0 auto;
+    word-spacing: 5%;
+    font-size: 30px;
+}
+
+.central-title {
+    font-family: "sig",Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-weight: bold;
+    font-size: 50px;
+    color: #eff3df;
+
+}
+
+.top-left {
+    height: 30rem;
+    width: 40rem;
+    margin-left: 30px;
+    color: blanchedalmond;
+    margin-bottom: 50px;
+    display: block;
+    font-weight: bold;
+    font-size: 40px;
+    text-align: center;
+}
+
+.top-right {
+    height: 34rem;
+    width: 40rem;
+    position: absolute;
+    color: blanchedalmond;
+    right: 30px;
+    top: 306px;
+    display: block;
+    font-weight: bold;
+    font-size: 40px;
+    margin-top: -65px;
+    text-align: center;
+}
+
+.middle {
+    height: 30rem;
+    width: 40rem;
+    position: absolute;
+    color: blanchedalmond;
+    margin-left: 60rem;
+    display: block;
+    font-family: mos;
+    font-weight: normal;
+    font-size: 40px;
+    text-align: center;
+}
+.right-h3 {
+    margin-bottom: 46.8px;
+}
+
+.bottom {
+    height: 70px;
+    width: 159.5rem;
+    margin: 0 0 0 0 ;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    text-align: center;
+
+}
